@@ -1,5 +1,5 @@
-PREFIX = /usr
-MANDIR = $(PREFIX)/share/man
+PREFIX = /system
+MANDIR = $(PREFIX)/usr/share/man
 
 all:
 	@echo Run \'make install\' to install Neofetch.
