@@ -1,5 +1,5 @@
-PREFIX = /system
-MANDIR = $(PREFIX)/usr/share/man
+PREFIX = /data/data/com.termux/files/usr
+MANDIR = $(PREFIX)/share/man
 
 all:
 	@echo Run \'make install\' to install Neofetch.
